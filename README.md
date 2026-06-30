@@ -29,18 +29,13 @@ https://github.com/CheckYourBackup/downloads/raw/main/CheckYourBackup-Free-Windo
 ```text
 Version: Check Your Backup 1.0.8
 Edition: Free
-Release date: 2026-06-16
-File size: 46,005,347 bytes (~43.9 MiB)
-SHA256: 625bbf09f2d7d89802078c16241279211ef2dbebd144b540e23c30ae8950b620
+Release date: 2026-06-30
+File size: 46,077,275 bytes (~43.9 MiB)
+SHA256: 6dfad54fe9b24fa20bf6c5441a96612f60ada0d7982c4de55e2bf5d47ebaaedf
 ```
 
-The current ZIP filename still reflects the previously published artifact. The
-next build/release pass should align the artifact name with the unified product
-version, for example:
-
-```text
-CheckYourBackup-Free-Windows-1.0.8.zip
-```
+The ZIP filename is the stable public download channel for the 1.x release line.
+The software version is shown by the application and release metadata.
 
 ## Platform Status
 
